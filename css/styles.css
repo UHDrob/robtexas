@@ -152,6 +152,11 @@ h5, .h5 {
 h6, .h6 {
   font-size: 1rem;
 }
+#college {
+  color: white;
+  border: 10px;
+  line-height: 5px;
+}
 
 p {
   margin-top: 0;
